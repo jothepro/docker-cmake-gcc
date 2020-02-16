@@ -1,2 +1,2 @@
-# docker-cmake-djinni-gcc
-Dockerfile for building projects with cmake, djinni &amp; gcc
+# docker-cmake-gcc
+Dockerfile for building projects with cmake &amp; gcc
